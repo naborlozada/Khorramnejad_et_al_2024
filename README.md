@@ -1,7 +1,7 @@
 ## Khorramnejad_et_al_2024
 
 
-Research paper: Mosquito invasion success correlates with resource allocation for reproduction*
+Research paper: *Reproductive resource allocation correlates with successful global invasion of a mosquito species*
 
 Authors: Ayda Khorramnejad, Claudia Alfaro, Stefano Quaranta, Alejandro Nabor Lozada-Chávez, Laila Gasmi, Hugo Perdomo Contreras, Laurent Chiarelli, Mariangela Bonizzoni
 
