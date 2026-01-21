@@ -1,6 +1,6 @@
 ## Khorramnejad_et_al_2024
 
-Research paper: **Population differences in reproductive resource allocation and heterosis in the invasive vector Aedes albopictus***
+Research paper: **[Population differences in reproductive resource allocation and heterosis in the invasive vector Aedes albopictus](https://doi.org/10.1186/s13071-025-07235-7)***
 
 Authors: Ayda Khorramnejad*, Claudia Alfaro*, Stefano Quaranta, Alejandro Nabor Lozada-Chávez, Laila Gasmi, Hugo Perdomo Contreras, Laurent Chiarelli & Mariangela Bonizzoni
 
@@ -16,7 +16,7 @@ Whole Genome Sequencing data that support the findings of this study are openly 
 
 
 Citation:
-* [PAPER] Khorramnejad, A., Alfaro, C., Quaranta, S. et al. Population differences in reproductive resource allocation and heterosis in the invasive vector Aedes albopictus. Parasites Vectors (2026). https://doi.org/10.1186/s13071-025-07235-7.
+* [PAPER] Khorramnejad, A., Alfaro, C., Quaranta, S. et al. Population differences in reproductive resource allocation and heterosis in the invasive vector Aedes albopictus. Parasites Vectors (2026). https://doi.org/10.1186/s13071-025-07235-7. *Provisional citation*
 * [REPOSITORY] Lozada-Chávez, A. N. 2026. Khorramnejad_et_al_2024. Github repository. [https://github.com/naborlozada/Khorramnejad_et_al_2024](https://github.com/naborlozada/Khorramnejad_et_al_2024).
 
 For historical reasons, we cite here our **not peer review preprint** in BioRxiv ["*Reproductive resource allocation correlates with successful global invasion of a mosquito species*"](https://www.biorxiv.org/content/10.1101/2024.07.18.604133v1).
