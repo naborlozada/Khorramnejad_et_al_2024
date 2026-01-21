@@ -6,9 +6,9 @@ Authors: Ayda Khorramnejad*, Claudia Alfaro*, Stefano Quaranta, Alejandro Nabor 
 
 \* *Ayda Khorramnejad and Claudia Alfaro have contributed equally to this work.*
 
----
 
-Description:\
+
+## Description:
 This repository contains a genome wide GO annotations for Aedes albopictus (AaloF) as a R package. It is based on the reference genome AalbF2 from VectorBase version 61.
 
 Data availability:\
@@ -21,13 +21,9 @@ Citation:
 
 For historical reasons, we cite here our **not peer review preprint** in BioRxiv ["*Reproductive resource allocation correlates with successful global invasion of a mosquito species*"](https://www.biorxiv.org/content/10.1101/2024.07.18.604133v1).
 
-
 <br/>
 
-----
-
-### USE & DISTRIBUTION OF THIS REPOSITORY MATERIAL
-
+## USE & DISTRIBUTION OF THIS REPOSITORY MATERIAL
 THIS IS A RELEASE VERSION OF THE DATA.
 
 The data files are free. You can redistribute it and/or use it for scientific research, educational or recreational purpose. 
@@ -40,12 +36,9 @@ Cite this repository:
 - Lozada-Chávez, A. N. 2026. Khorramnejad_et_al_2024. Github repository. https://github.com/naborlozada/Khorramnejad_et_al_2024.
 
 
-
-**THE AUTHORS**
-
 <br/>
 
-----
+
 
 <a href="https://github.com/naborlozada/Khorramnejad_et_al_2024">Khorramnejad_et_al_2024</a> © 2026 by <a href="https://github.com/naborlozada/">Nabor Lozada</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
@@ -67,4 +60,8 @@ UNDER THE FOLLOWING TERMS:
 
 To view a FULL COPY of this license, visit the aboved link. 
 ```
+
+<br/>
+
+**THE AUTHORS**
 
